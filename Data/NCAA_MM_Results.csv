@@ -1,0 +1,468 @@
+,DATE,TEAM,CONF.,OPP.,RESULT,SCORE,YEAR
+0,2016-03-15,Vanderbilt,SEC,Wichita St.,L, 70-50,2016
+1,2016-03-15,Fairleigh Dickinson,NEC,Florida Gulf Coast,L, 96-65,2016
+2,2016-03-16,Southern,SWAC,Holy Cross,L, 59-55,2016
+3,2016-03-16,Tulsa,Amer,Michigan,L, 67-62,2016
+4,2016-03-17,Austin Peay,OVC,Kansas,L, 105-79,2016
+5,2016-03-17,Arizona,P12,Wichita St.,L, 65-55,2016
+6,2016-03-17,Seton Hall,BE,Gonzaga,L, 68-52,2016
+7,2016-03-17,USC,P12,Providence,L, 70-69,2016
+8,2016-03-17,Texas Tech,B12,Butler,L, 71-61,2016
+9,2016-03-17,Colorado,P12,Connecticut,L, 74-67,2016
+10,2016-03-17,Buffalo,MAC,Miami FL,L, 79-72,2016
+11,2016-03-17,Baylor,B12,Yale,L, 79-75,2016
+12,2016-03-17,Fresno St.,MWC,Utah,L, 80-69,2016
+13,2016-03-17,Hampton,MEAC,Virginia,L, 81-45,2016
+14,2016-03-17,Florida Gulf Coast,ASun,North Carolina,L, 83-67,2016
+15,2016-03-17,Stony Brook,AE,Kentucky,L, 85-57,2016
+16,2016-03-17,Purdue,B10,Little Rock,L, 85-83,2016
+17,2016-03-17,UNC Wilmington,CAA,Duke,L, 93-85,2016
+18,2016-03-17,Iona,MAAC,Iowa St.,L, 94-81,2016
+19,2016-03-17,Chattanooga,SC,Indiana,L, 99-74,2016
+20,2016-03-18,Pittsburgh,ACC,Wisconsin,L, 47-43,2016
+21,2016-03-18,Dayton,A10,Syracuse,L, 70-51,2016
+22,2016-03-18,West Virginia,B12,Stephen F. Austin,L, 70-56,2016
+23,2016-03-18,Michigan,B10,Notre Dame,L, 70-63,2016
+24,2016-03-18,Weber St.,BSky,Xavier,L, 71-53,2016
+25,2016-03-18,Temple,Amer,Iowa,L, 72-70,2016
+26,2016-03-18,Oregon St.,P12,VCU,L, 75-67,2016
+27,2016-03-18,Texas,B12,Northern Iowa,L, 75-72,2016
+28,2016-03-18,California,P12,Hawaii,L, 77-66,2016
+29,2016-03-18,Cincinnati,Amer,Saint Joseph's,L, 78-76,2016
+30,2016-03-18,South Dakota St.,Sum,Maryland,L, 79-74,2016
+31,2016-03-18,Cal St. Bakersfield,WAC,Oklahoma,L, 82-68,2016
+32,2016-03-18,UNC Asheville,BSth,Villanova,L, 86-56,2016
+33,2016-03-18,Michigan St.,B10,Middle Tennessee,L, 90-81,2016
+34,2016-03-18,Holy Cross,Pat,Oregon,L, 91-52,2016
+35,2016-03-18,Green Bay,Horz,Texas A&M,L, 92-65,2016
+36,2016-03-19,Wichita St.,MVC,Miami FL,L, 65-57,2016
+37,2016-03-19,Yale,Ivy,Duke,L, 71-64,2016
+38,2016-03-19,Connecticut,Amer,Kansas,L, 73-61,2016
+39,2016-03-19,Kentucky,SEC,Indiana,L, 73-67,2016
+40,2016-03-19,Butler,BE,Virginia,L, 77-69,2016
+41,2016-03-19,Little Rock,SB,Iowa St.,L, 78-61,2016
+42,2016-03-19,Utah,P12,Gonzaga,L, 82-59,2016
+43,2016-03-19,Providence,BE,North Carolina,L, 85-66,2016
+44,2016-03-20,Xavier,BE,Wisconsin,L, 66-63,2016
+45,2016-03-20,Saint Joseph's,A10,Oregon,L, 69-64,2016
+46,2016-03-20,Hawaii,BW,Maryland,L, 73-60,2016
+47,2016-03-20,Middle Tennessee,CUSA,Syracuse,L, 75-50,2016
+48,2016-03-20,Stephen F. Austin,Slnd,Notre Dame,L, 76-75,2016
+49,2016-03-20,VCU,A10,Oklahoma,L, 85-81,2016
+50,2016-03-20,Iowa,B10,Villanova,L, 87-68,2016
+51,2016-03-20,Northern Iowa,MVC,Texas A&M,L, 92-88,2016
+52,2016-03-24,Texas A&M,SEC,Oklahoma,L, 77-63,2016
+53,2016-03-24,Maryland,B10,Kansas,L, 79-63,2016
+54,2016-03-24,Duke,ACC,Oregon,L, 82-68,2016
+55,2016-03-24,Miami FL,ACC,Villanova,L, 92-69,2016
+56,2016-03-25,Indiana,B10,North Carolina,L, 101-86,2016
+57,2016-03-25,Wisconsin,B10,Notre Dame,L, 61-56,2016
+58,2016-03-25,Gonzaga,WCC,Syracuse,L, 63-60,2016
+59,2016-03-25,Iowa St.,B12,Virginia,L, 84-71,2016
+60,2016-03-26,Kansas,B12,Villanova,L, 64-59,2016
+61,2016-03-26,Oregon,P12,Oklahoma,L, 80-68,2016
+62,2016-03-27,Virginia,ACC,Syracuse,L, 68-62,2016
+63,2016-03-27,Notre Dame,ACC,North Carolina,L, 88-74,2016
+64,2016-04-02,Syracuse,ACC,North Carolina,L, 83-66,2016
+65,2016-04-02,Oklahoma,B12,Villanova,L, 95-51,2016
+66,2016-04-04,North Carolina,ACC,Villanova,L, 77-74,2016
+67,2017-03-14,Wake Forest,ACC,Kansas St.,L, 95-88,2017
+68,2017-03-14,Mount St. Mary's,NEC,New Orleans,W, 67-66,2017
+69,2017-03-15,USC,P12,Providence,W, 75-71,2017
+70,2017-03-15,UC Davis,BW,North Carolina Centr,W, 67-63,2017
+71,2017-03-16,Arizona,P12,North Dakota,W, 100-82,2017
+72,2017-03-16,Middle Tennessee,CUSA,Minnesota,W, 81-72,2017
+73,2017-03-16,UNC Wilmington,CAA,Virginia,L, 76-71,2017
+74,2017-03-16,Virginia Tech,ACC,Wisconsin,L, 84-74,2017
+75,2017-03-16,Saint Mary's,WCC,VCU,W, 85-77,2017
+76,2017-03-16,Iowa St.,B12,Nevada,W, 84-73,2017
+77,2017-03-16,Purdue,B10,Vermont,W, 80-70,2017
+78,2017-03-16,Bucknell,Pat,West Virginia,L, 86-80,2017
+79,2017-03-16,Florida,SEC,East Tennessee St.,W, 80-65,2017
+80,2017-03-16,Xavier,BE,Maryland,W, 76-65,2017
+81,2017-03-16,Villanova,BE,Mount St. Mary's,W, 76-56,2017
+82,2017-03-16,Northwestern,B10,Vanderbilt,W, 68-66,2017
+83,2017-03-16,Butler,BE,Winthrop,W, 76-64,2017
+84,2017-03-16,Notre Dame,ACC,Princeton,W, 60-58,2017
+85,2017-03-16,South Dakota St.,Sum,Gonzaga,L, 66-46,2017
+86,2017-03-17,Oklahoma St.,B12,Michigan,L, 92-91,2017
+87,2017-03-17,Cincinnati,Amer,Kansas St.,W, 75-61,2017
+88,2017-03-17,UCLA,P12,Kent St.,W, 97-80,2017
+89,2017-03-17,Michigan St.,B10,Miami FL,W, 78-58,2017
+90,2017-03-17,Oregon,P12,Iona,W, 93-77,2017
+91,2017-03-17,Kansas,B12,UC Davis,W, 100-62,2017
+92,2017-03-17,North Carolina,ACC,Texas Southern,W, 103-64,2017
+93,2017-03-17,Marquette,BE,South Carolina,L, 93-73,2017
+94,2017-03-17,Louisville,ACC,Jacksonville St.,W, 78-63,2017
+95,2017-03-17,Rhode Island,A10,Creighton,W, 84-72,2017
+96,2017-03-17,Baylor,B12,New Mexico St.,W, 91-73,2017
+97,2017-03-17,Duke,ACC,Troy,W, 87-65,2017
+98,2017-03-17,USC,P12,SMU,W, 66-65,2017
+99,2017-03-17,Arkansas,SEC,Seton Hall,W, 77-71,2017
+100,2017-03-17,Kentucky,SEC,Northern Kentucky,W, 79-70,2017
+101,2017-03-17,Wichita St.,MVC,Dayton,W, 64-58,2017
+102,2017-03-18,Xavier,BE,Florida St.,W, 91-66,2017
+103,2017-03-18,West Virginia,B12,Notre Dame,W, 83-71,2017
+104,2017-03-18,Wisconsin,B10,Villanova,W, 65-62,2017
+105,2017-03-18,Purdue,B10,Iowa St.,W, 80-76,2017
+106,2017-03-18,Florida,SEC,Virginia,W, 65-39,2017
+107,2017-03-18,Gonzaga,WCC,Northwestern,W, 79-73,2017
+108,2017-03-18,Butler,BE,Middle Tennessee,W, 74-65,2017
+109,2017-03-18,Arizona,P12,Saint Mary's,W, 69-60,2017
+110,2017-03-19,UCLA,P12,Cincinnati,W, 79-67,2017
+111,2017-03-19,Kansas,B12,Michigan St.,W, 90-70,2017
+112,2017-03-19,Michigan,B10,Louisville,W, 73-69,2017
+113,2017-03-19,Duke,ACC,South Carolina,L, 88-81,2017
+114,2017-03-19,USC,P12,Baylor,L, 82-78,2017
+115,2017-03-19,Oregon,P12,Rhode Island,W, 75-72,2017
+116,2017-03-19,Kentucky,SEC,Wichita St.,W, 65-62,2017
+117,2017-03-19,North Carolina,ACC,Arkansas,W, 72-65,2017
+118,2017-03-23,Kansas,B12,Purdue,W, 98-66,2017
+119,2017-03-23,Xavier,BE,Arizona,W, 73-71,2017
+120,2017-03-23,Michigan,B10,Oregon,L, 69-68,2017
+121,2017-03-23,Gonzaga,WCC,West Virginia,W, 61-58,2017
+122,2017-03-24,North Carolina,ACC,Butler,W, 92-80,2017
+123,2017-03-24,Kentucky,SEC,UCLA,W, 86-75,2017
+124,2017-03-24,Wisconsin,B10,Florida,L, 84-83,2017
+125,2017-03-24,South Carolina,SEC,Baylor,W, 70-50,2017
+126,2017-03-25,Oregon,P12,Kansas,W, 74-60,2017
+127,2017-03-25,Gonzaga,WCC,Xavier,W, 83-59,2017
+128,2017-03-26,South Carolina,SEC,Florida,W, 77-70,2017
+129,2017-03-26,North Carolina,ACC,Kentucky,W, 75-73,2017
+130,2017-04-01,Gonzaga,WCC,South Carolina,W, 77-73,2017
+131,2017-04-01,North Carolina,ACC,Oregon,W, 77-76,2017
+132,2017-04-03,North Carolina,ACC,Gonzaga,W, 71-65,2017
+133,2018-03-13,St. Bonaventure,A10,UCLA,W, 65-58,2018
+134,2018-03-13,Radford,BSth,LIU Brooklyn,W, 71-61,2018
+135,2018-03-14,Arizona St.,P12,Syracuse,L, 60-56,2018
+136,2018-03-14,Texas Southern,SWAC,North Carolina Centr,W, 64-46,2018
+137,2018-03-15,Villanova,BE,Radford,W, 87-61,2018
+138,2018-03-15,Virginia Tech,ACC,Alabama,L, 86-83,2018
+139,2018-03-15,Buffalo,MAC,Arizona,W, 89-68,2018
+140,2018-03-15,Seton Hall,BE,North Carolina St.,W, 94-83,2018
+141,2018-03-15,Duke,ACC,Iona,W, 89-67,2018
+142,2018-03-15,Kentucky,SEC,Davidson,W, 78-73,2018
+143,2018-03-15,Tennessee,SEC,Wright St.,W, 73-47,2018
+144,2018-03-15,Kansas,B12,Penn,W, 76-60,2018
+145,2018-03-15,Ohio St.,B10,South Dakota St.,W, 81-73,2018
+146,2018-03-15,Loyola Chicago,MVC,Miami FL,W, 64-62,2018
+147,2018-03-15,Rhode Island,A10,Oklahoma,W, 83-78,2018
+148,2018-03-15,Florida,SEC,St. Bonaventure,W, 77-62,2018
+149,2018-03-15,Houston,Amer,San Diego St.,W, 67-65,2018
+150,2018-03-15,Gonzaga,WCC,UNC Greensboro,W, 68-64,2018
+151,2018-03-15,Stephen F. Austin,Slnd,Texas Tech,L, 70-60,2018
+152,2018-03-15,Michigan,B10,Montana,W, 61-47,2018
+153,2018-03-16,UMBC,AE,Virginia,W, 74-54,2018
+154,2018-03-16,West Virginia,B12,Murray St.,W, 85-68,2018
+155,2018-03-16,Nevada,MWC,Texas,W, 87-83,2018
+156,2018-03-16,Michigan St.,B10,Bucknell,W, 82-78,2018
+157,2018-03-16,Clemson,ACC,New Mexico St.,W, 79-68,2018
+158,2018-03-16,Butler,BE,Arkansas,W, 79-62,2018
+159,2018-03-16,Georgia St.,SB,Cincinnati,L, 68-53,2018
+160,2018-03-16,Xavier,BE,Texas Southern,W, 102-83,2018
+161,2018-03-16,Texas A&M,SEC,Providence,W, 73-69,2018
+162,2018-03-16,Marshall,CUSA,Wichita St.,W, 81-75,2018
+163,2018-03-16,Kansas St.,B12,Creighton,W, 69-59,2018
+164,2018-03-16,North Carolina,ACC,Lipscomb,W, 84-66,2018
+165,2018-03-16,Florida St.,ACC,Missouri,W, 67-54,2018
+166,2018-03-16,Purdue,B10,Cal St. Fullerton,W, 74-48,2018
+167,2018-03-16,TCU,B12,Syracuse,L, 57-52,2018
+168,2018-03-16,College of Charlesto,CAA,Auburn,L, 62-58,2018
+169,2018-03-17,Duke,ACC,Rhode Island,W, 87-62,2018
+170,2018-03-17,Gonzaga,WCC,Ohio St.,W, 90-84,2018
+171,2018-03-17,Villanova,BE,Alabama,W, 81-58,2018
+172,2018-03-17,Kentucky,SEC,Buffalo,W, 95-75,2018
+173,2018-03-17,Kansas,B12,Seton Hall,W, 83-79,2018
+174,2018-03-17,Loyola Chicago,MVC,Tennessee,W, 63-62,2018
+175,2018-03-17,Florida,SEC,Texas Tech,L, 69-66,2018
+176,2018-03-17,Houston,Amer,Michigan,L, 64-63,2018
+177,2018-03-18,Purdue,B10,Butler,W, 76-73,2018
+178,2018-03-18,Nevada,MWC,Cincinnati,W, 75-73,2018
+179,2018-03-18,Clemson,ACC,Auburn,W, 84-53,2018
+180,2018-03-18,West Virginia,B12,Marshall,W, 94-71,2018
+181,2018-03-18,Texas A&M,SEC,North Carolina,W, 86-65,2018
+182,2018-03-18,Xavier,BE,Florida St.,L, 75-70,2018
+183,2018-03-18,Michigan St.,B10,Syracuse,L, 55-53,2018
+184,2018-03-18,UMBC,AE,Kansas St.,L, 50-43,2018
+185,2018-03-22,Michigan,B10,Texas A&M,W, 99-72,2018
+186,2018-03-22,Florida St.,ACC,Gonzaga,W, 75-60,2018
+187,2018-03-22,Nevada,MWC,Loyola Chicago,L, 69-68,2018
+188,2018-03-22,Kansas St.,B12,Kentucky,W, 61-58,2018
+189,2018-03-23,Kansas,B12,Clemson,W, 80-76,2018
+190,2018-03-23,Duke,ACC,Syracuse,W, 69-65,2018
+191,2018-03-23,Villanova,BE,West Virginia,W, 90-78,2018
+192,2018-03-23,Texas Tech,B12,Purdue,W, 78-65,2018
+193,2018-03-24,Loyola Chicago,MVC,Kansas St.,W, 78-62,2018
+194,2018-03-24,Michigan,B10,Florida St.,W, 58-54,2018
+195,2018-03-25,Villanova,BE,Texas Tech,W, 71-59,2018
+196,2018-03-25,Kansas,B12,Duke,W, 85-81,2018
+197,2018-03-31,Villanova,BE,Kansas,W, 95-79,2018
+198,2018-03-31,Michigan,B10,Loyola Chicago,W, 69-57,2018
+199,2018-04-02,Villanova,BE,Michigan,W, 79-62,2018
+200,2019-03-19,Belmont,OVC,Temple,W, 81-70,2019
+201,2019-03-19,Fairleigh Dickinson,NEC,Prairie View A&M,W, 82-76,2019
+202,2019-03-20,North Dakota St.,Sum,North Carolina Centr,W, 78-74,2019
+203,2019-03-20,Arizona St.,P12,St. John's,W, 74-65,2019
+204,2019-03-21,Minnesota,B10,Louisville,W, 86-76,2019
+205,2019-03-21,Baylor,B12,Syracuse,W, 78-69,2019
+206,2019-03-21,Kentucky,SEC,Abilene Christian,W, 79-44,2019
+207,2019-03-21,Wofford,SC,Seton Hall,W, 84-68,2019
+208,2019-03-21,Belmont,OVC,Maryland,L, 79-77,2019
+209,2019-03-21,Kansas,B12,Northeastern,W, 87-53,2019
+210,2019-03-21,Murray St.,OVC,Marquette,W, 83-64,2019
+211,2019-03-21,Gonzaga,WCC,Fairleigh Dickinson,W, 87-49,2019
+212,2019-03-21,Auburn,SEC,New Mexico St.,W, 78-77,2019
+213,2019-03-21,Florida,SEC,Nevada,W, 70-61,2019
+214,2019-03-21,Villanova,BE,Saint Mary's,W, 61-57,2019
+215,2019-03-21,Vermont,AE,Florida St.,L, 76-69,2019
+216,2019-03-21,Bradley,MVC,Michigan St.,L, 76-65,2019
+217,2019-03-21,LSU,SEC,Yale,W, 79-74,2019
+218,2019-03-21,Michigan,B10,Montana,W, 74-55,2019
+219,2019-03-21,Purdue,B10,Old Dominion,W, 61-48,2019
+220,2019-03-22,Oklahoma,B12,Mississippi,W, 95-72,2019
+221,2019-03-22,Buffalo,MAC,Arizona St.,W, 91-74,2019
+222,2019-03-22,Oregon,P12,Wisconsin,W, 72-54,2019
+223,2019-03-22,UCF,Amer,VCU,W, 73-58,2019
+224,2019-03-22,Liberty,ASun,Mississippi St.,W, 80-76,2019
+225,2019-03-22,Iowa,B10,Cincinnati,W, 79-72,2019
+226,2019-03-22,Houston,Amer,Georgia St.,W, 84-55,2019
+227,2019-03-22,UC Irvine,BW,Kansas St.,W, 70-64,2019
+228,2019-03-22,Tennessee,SEC,Colgate,W, 77-70,2019
+229,2019-03-22,Washington,P12,Utah St.,W, 78-61,2019
+230,2019-03-22,Iona,MAAC,North Carolina,L, 88-73,2019
+231,2019-03-22,Duke,ACC,North Dakota St.,W, 85-62,2019
+232,2019-03-22,Virginia Tech,ACC,Saint Louis,W, 66-52,2019
+233,2019-03-22,Gardner Webb,BSth,Virginia,L, 71-56,2019
+234,2019-03-22,Ohio St.,B10,Iowa St.,W, 62-59,2019
+235,2019-03-22,Texas Tech,B12,Northern Kentucky,W, 72-57,2019
+236,2019-03-23,Auburn,SEC,Kansas,W, 89-75,2019
+237,2019-03-23,Purdue,B10,Villanova,W, 87-61,2019
+238,2019-03-23,Gonzaga,WCC,Baylor,W, 83-71,2019
+239,2019-03-23,Florida St.,ACC,Murray St.,W, 90-62,2019
+240,2019-03-23,Michigan St.,B10,Minnesota,W, 70-50,2019
+241,2019-03-23,Michigan,B10,Florida,W, 64-49,2019
+242,2019-03-23,Wofford,SC,Kentucky,L, 62-56,2019
+243,2019-03-23,LSU,SEC,Maryland,W, 69-67,2019
+244,2019-03-24,North Carolina,ACC,Washington,W, 81-59,2019
+245,2019-03-24,UCF,Amer,Duke,L, 77-76,2019
+246,2019-03-24,Oregon,P12,UC Irvine,W, 73-54,2019
+247,2019-03-24,Texas Tech,B12,Buffalo,W, 78-58,2019
+248,2019-03-24,Virginia,ACC,Oklahoma,W, 63-51,2019
+249,2019-03-24,Houston,Amer,Ohio St.,W, 74-59,2019
+250,2019-03-24,Tennessee,SEC,Iowa,W, 83-77,2019
+251,2019-03-24,Virginia Tech,ACC,Liberty,W, 67-58,2019
+252,2019-03-28,Purdue,B10,Tennessee,W, 99-94,2019
+253,2019-03-28,Texas Tech,B12,Michigan,W, 63-44,2019
+254,2019-03-28,Gonzaga,WCC,Florida St.,W, 72-58,2019
+255,2019-03-28,Virginia,ACC,Oregon,W, 53-49,2019
+256,2019-03-29,Auburn,SEC,North Carolina,W, 97-80,2019
+257,2019-03-29,Michigan St.,B10,LSU,W, 80-63,2019
+258,2019-03-29,Virginia Tech,ACC,Duke,L, 75-73,2019
+259,2019-03-29,Kentucky,SEC,Houston,W, 62-58,2019
+260,2019-03-30,Purdue,B10,Virginia,L, 80-75,2019
+261,2019-03-30,Gonzaga,WCC,Texas Tech,L, 75-69,2019
+262,2019-03-31,Auburn,SEC,Kentucky,W, 77-71,2019
+263,2019-03-31,Michigan St.,B10,Duke,W, 68-67,2019
+264,2019-04-06,Auburn,SEC,Virginia,L, 63-62,2019
+265,2019-04-06,Texas Tech,B12,Michigan St.,W, 61-51,2019
+266,2019-04-08,Virginia,ACC,Texas Tech,W, 85-77,2019
+267,2021-03-18,UCLA,P12,Michigan St.,W, 86-80,2021
+268,2021-03-18,Texas Southern,SWAC,Mount St. Mary's,W, 60-52,2021
+269,2021-03-18,Drake,MVC,Wichita St.,W, 53-52,2021
+270,2021-03-18,Norfolk St.,MEAC,Appalachian St.,W, 54-53,2021
+271,2021-03-19,Syracuse,ACC,San Diego St.,W, 78-62,2021
+272,2021-03-19,Wisconsin,B10,North Carolina,W, 85-62,2021
+273,2021-03-19,West Virginia,B12,Morehead St.,W, 84-67,2021
+274,2021-03-19,Houston,Amer,Cleveland St.,W, 87-56,2021
+275,2021-03-19,North Texas,CUSA,Purdue,W, 78-69,2021
+276,2021-03-19,Loyola Chicago,MVC,Georgia Tech,W, 71-60,2021
+277,2021-03-19,Oregon St.,P12,Tennessee,W, 70-56,2021
+278,2021-03-19,Villanova,BE,Winthrop,W, 73-63,2021
+279,2021-03-19,Illinois,B10,Drexel,W, 78-49,2021
+280,2021-03-19,Florida,SEC,Virginia Tech,W, 75-70,2021
+281,2021-03-19,Texas Tech,B12,Utah St.,W, 65-53,2021
+282,2021-03-19,Arkansas,SEC,Colgate,W, 85-68,2021
+283,2021-03-19,Rutgers,B10,Clemson,W, 60-56,2021
+284,2021-03-19,Baylor,B12,Hartford,W, 79-55,2021
+285,2021-03-19,Oral Roberts,Sum,Ohio St.,W, 75-72,2021
+286,2021-03-19,Liberty,ASun,Oklahoma St.,L, 69-60,2021
+287,2021-03-20,Iowa,B10,Grand Canyon,W, 86-74,2021
+288,2021-03-20,Colorado,P12,Georgetown,W, 96-73,2021
+289,2021-03-20,UCLA,P12,BYU,W, 73-62,2021
+290,2021-03-20,Eastern Washington,BSky,Kansas,L, 93-84,2021
+291,2021-03-20,Gonzaga,WCC,Norfolk St.,W, 98-55,2021
+292,2021-03-20,LSU,SEC,St. Bonaventure,W, 76-61,2021
+293,2021-03-20,Maryland,B10,Connecticut,W, 63-54,2021
+294,2021-03-20,Michigan,B10,Texas Southern,W, 82-66,2021
+295,2021-03-20,Oklahoma,B12,Missouri,W, 72-68,2021
+296,2021-03-20,USC,P12,Drake,W, 72-56,2021
+297,2021-03-20,UC Santa Barbara,BW,Creighton,L, 63-62,2021
+298,2021-03-20,Ohio,MAC,Virginia,W, 62-58,2021
+299,2021-03-20,Florida St.,ACC,UNC Greensboro,W, 64-54,2021
+300,2021-03-20,Alabama,SEC,Iona,W, 68-55,2021
+301,2021-03-20,Abilene Christian,Slnd,Texas,W, 53-52,2021
+302,2021-03-21,Villanova,BE,North Texas,W, 84-61,2021
+303,2021-03-21,Baylor,B12,Wisconsin,W, 76-63,2021
+304,2021-03-21,Loyola Chicago,MVC,Illinois,W, 71-58,2021
+305,2021-03-21,Oral Roberts,Sum,Florida,W, 81-78,2021
+306,2021-03-21,Syracuse,ACC,West Virginia,W, 75-72,2021
+307,2021-03-21,Oregon St.,P12,Oklahoma St.,W, 80-70,2021
+308,2021-03-21,Arkansas,SEC,Texas Tech,W, 68-66,2021
+309,2021-03-21,Houston,Amer,Rutgers,W, 63-60,2021
+310,2021-03-22,Alabama,SEC,Maryland,W, 96-77,2021
+311,2021-03-22,USC,P12,Kansas,W, 85-51,2021
+312,2021-03-22,Gonzaga,WCC,Oklahoma,W, 87-71,2021
+313,2021-03-22,Oregon,P12,Iowa,W, 95-80,2021
+314,2021-03-22,LSU,SEC,Michigan,L, 86-78,2021
+315,2021-03-22,Florida St.,ACC,Colorado,W, 71-53,2021
+316,2021-03-22,UCLA,P12,Abilene Christian,W, 67-47,2021
+317,2021-03-22,Creighton,BE,Ohio,W, 72-58,2021
+318,2021-03-27,Oregon St.,P12,Loyola Chicago,W, 65-58,2021
+319,2021-03-27,Baylor,B12,Villanova,W, 62-51,2021
+320,2021-03-27,Oral Roberts,Sum,Arkansas,L, 72-70,2021
+321,2021-03-27,Houston,Amer,Syracuse,W, 62-46,2021
+322,2021-03-28,USC,P12,Oregon,W, 82-68,2021
+323,2021-03-28,Gonzaga,WCC,Creighton,W, 83-65,2021
+324,2021-03-28,UCLA,P12,Alabama,W, 88-78,2021
+325,2021-03-28,Michigan,B10,Florida St.,W, 76-58,2021
+326,2021-03-29,Baylor,B12,Arkansas,W, 81-72,2021
+327,2021-03-29,Houston,Amer,Oregon St.,W, 67-61,2021
+328,2021-03-30,Gonzaga,WCC,USC,W, 85-66,2021
+329,2021-03-30,UCLA,P12,Michigan,W, 51-49,2021
+330,2021-04-03,Baylor,B12,Houston,W, 78-59,2021
+331,2021-04-03,UCLA,P12,Gonzaga,L, 93-90,2021
+332,2021-04-05,Baylor,B12,Gonzaga,W, 86-70,2021
+333,2022-03-15,Indiana,B10,Wyoming,W, 66-58,2022
+334,2022-03-15,Texas Southern,SWAC,Texas A&M Corpus Chr,W, 76-67,2022
+335,2022-03-16,Notre Dame,ACC,Rutgers,W, 89-87,2022
+336,2022-03-16,Wright St.,Horz,Bryant,W, 93-82,2022
+337,2022-03-17,Baylor,B12,Norfolk St.,W, 85-49,2022
+338,2022-03-17,North Carolina,ACC,Marquette,W, 95-63,2022
+339,2022-03-17,Saint Mary's,WCC,Indiana,W, 82-53,2022
+340,2022-03-17,New Mexico St.,WAC,Connecticut,W, 70-63,2022
+341,2022-03-17,Tennessee,SEC,Longwood,W, 88-56,2022
+342,2022-03-17,Murray St.,OVC,San Francisco,W, 92-87,2022
+343,2022-03-17,Vermont,AE,Arkansas,L, 75-71,2022
+344,2022-03-17,Gonzaga,WCC,Georgia St.,W, 93-72,2022
+345,2022-03-17,Saint Peter's,MAAC,Kentucky,W, 85-79,2022
+346,2022-03-17,Memphis,Amer,Boise St.,W, 64-53,2022
+347,2022-03-17,Kansas,B12,Texas Southern,W, 83-56,2022
+348,2022-03-17,Creighton,BE,San Diego St.,W, 72-69,2022
+349,2022-03-17,Michigan,B10,Colorado St.,W, 75-63,2022
+350,2022-03-17,Akron,MAC,UCLA,L, 57-53,2022
+351,2022-03-17,Richmond,A10,Iowa,W, 67-63,2022
+352,2022-03-17,Providence,BE,South Dakota St.,W, 66-57,2022
+353,2022-03-18,Texas Tech,B12,Montana St.,W, 97-62,2022
+354,2022-03-18,Houston,Amer,UAB,W, 82-68,2022
+355,2022-03-18,Texas,B12,Virginia Tech,W, 81-73,2022
+356,2022-03-18,Villanova,BE,Delaware,W, 80-60,2022
+357,2022-03-18,Duke,ACC,Cal St. Fullerton,W, 78-61,2022
+358,2022-03-18,Davidson,A10,Michigan St.,L, 74-73,2022
+359,2022-03-18,Auburn,SEC,Jacksonville St.,W, 80-61,2022
+360,2022-03-18,Purdue,B10,Yale,W, 78-56,2022
+361,2022-03-18,Colgate,Pat,Wisconsin,L, 67-60,2022
+362,2022-03-18,TCU,B12,Seton Hall,W, 69-42,2022
+363,2022-03-18,Arizona,P12,Wright St.,W, 87-70,2022
+364,2022-03-18,Notre Dame,ACC,Alabama,W, 78-64,2022
+365,2022-03-18,Iowa St.,B12,LSU,W, 59-54,2022
+366,2022-03-18,Miami FL,ACC,USC,W, 68-66,2022
+367,2022-03-18,Ohio St.,B10,Loyola Chicago,W, 54-41,2022
+368,2022-03-18,Chattanooga,SC,Illinois,L, 54-53,2022
+369,2022-03-19,UCLA,P12,Saint Mary's,W, 72-56,2022
+370,2022-03-19,Memphis,Amer,Gonzaga,L, 82-78,2022
+371,2022-03-19,Providence,BE,Richmond,W, 79-51,2022
+372,2022-03-19,Michigan,B10,Tennessee,W, 76-68,2022
+373,2022-03-19,Kansas,B12,Creighton,W, 79-72,2022
+374,2022-03-19,North Carolina,ACC,Baylor,W, 93-86,2022
+375,2022-03-19,Saint Peter's,MAAC,Murray St.,W, 70-60,2022
+376,2022-03-19,Arkansas,SEC,New Mexico St.,W, 53-48,2022
+377,2022-03-20,Duke,ACC,Michigan St.,W, 85-76,2022
+378,2022-03-20,Purdue,B10,Texas,W, 81-71,2022
+379,2022-03-20,Villanova,BE,Ohio St.,W, 71-61,2022
+380,2022-03-20,Miami FL,ACC,Auburn,W, 79-61,2022
+381,2022-03-20,Houston,Amer,Illinois,W, 68-53,2022
+382,2022-03-20,Arizona,P12,TCU,W, 85-80,2022
+383,2022-03-20,Notre Dame,ACC,Texas Tech,L, 59-53,2022
+384,2022-03-20,Iowa St.,B12,Wisconsin,W, 54-49,2022
+385,2022-03-24,Duke,ACC,Texas Tech,W, 78-73,2022
+386,2022-03-24,Houston,Amer,Arizona,W, 72-60,2022
+387,2022-03-24,Villanova,BE,Michigan,W, 63-55,2022
+388,2022-03-24,Arkansas,SEC,Gonzaga,W, 74-68,2022
+389,2022-03-25,North Carolina,ACC,UCLA,W, 73-66,2022
+390,2022-03-25,Miami FL,ACC,Iowa St.,W, 70-56,2022
+391,2022-03-25,Purdue,B10,Saint Peter's,L, 67-64,2022
+392,2022-03-25,Kansas,B12,Providence,W, 66-61,2022
+393,2022-03-26,Duke,ACC,Arkansas,W, 78-69,2022
+394,2022-03-26,Villanova,BE,Houston,W, 50-44,2022
+395,2022-03-27,North Carolina,ACC,Saint Peter's,W, 69-49,2022
+396,2022-03-27,Kansas,B12,Miami FL,W, 76-50,2022
+397,2022-04-02,Kansas,B12,Villanova,W, 81-65,2022
+398,2022-04-02,Duke,ACC,North Carolina,L, 81-77,2022
+399,2022-04-04,North Carolina,ACC,Kansas,L, 72-69,2022
+400,2023-03-14,Pittsburgh,ACC,Mississippi St.,W, 60-59,2023
+401,2023-03-14,Texas A&M Corpus Chr,Slnd,Southeast Missouri S,W, 75-71,2023
+402,2023-03-15,Arizona St.,P12,Nevada,W, 98-73,2023
+403,2023-03-15,Fairleigh Dickinson,NEC,Texas Southern,W, 84-61,2023
+404,2023-03-16,Penn St.,B10,Texas A&M,W, 76-59,2023
+405,2023-03-16,Northwestern,B10,Boise St.,W, 75-67,2023
+406,2023-03-16,UCLA,P12,UNC Asheville,W, 86-53,2023
+407,2023-03-16,Alabama,SEC,Texas A&M Corpus Chr,W, 96-75,2023
+408,2023-03-16,Texas,B12,Colgate,W, 81-61,2023
+409,2023-03-16,Duke,ACC,Oral Roberts,W, 74-51,2023
+410,2023-03-16,West Virginia,B12,Maryland,L, 67-65,2023
+411,2023-03-16,Kansas,B12,Howard,W, 96-68,2023
+412,2023-03-16,Auburn,SEC,Iowa,W, 83-75,2023
+413,2023-03-16,Missouri,SEC,Utah St.,W, 76-65,2023
+414,2023-03-16,Furman,SC,Virginia,W, 68-67,2023
+415,2023-03-16,Arkansas,SEC,Illinois,W, 73-63,2023
+416,2023-03-16,Houston,Amer,Northern Kentucky,W, 63-52,2023
+417,2023-03-16,College of Charlesto,CAA,San Diego St.,L, 63-57,2023
+418,2023-03-16,Louisiana Lafayette,SB,Tennessee,L, 58-55,2023
+419,2023-03-16,Princeton,Ivy,Arizona,W, 59-55,2023
+420,2023-03-17,Connecticut,BE,Iona,W, 87-63,2023
+421,2023-03-17,Marquette,BE,Vermont,W, 78-61,2023
+422,2023-03-17,Florida Atlantic,CUSA,Memphis,W, 66-65,2023
+423,2023-03-17,Indiana,B10,Kent St.,W, 71-60,2023
+424,2023-03-17,Michigan St.,B10,USC,W, 72-62,2023
+425,2023-03-17,Gonzaga,WCC,Grand Canyon,W, 82-70,2023
+426,2023-03-17,Arizona St.,P12,TCU,L, 72-70,2023
+427,2023-03-17,Kansas St.,B12,Montana St.,W, 77-65,2023
+428,2023-03-17,Baylor,B12,UC Santa Barbara,W, 74-56,2023
+429,2023-03-17,Saint Mary's,WCC,VCU,W, 63-51,2023
+430,2023-03-17,Pittsburgh,ACC,Iowa St.,W, 59-41,2023
+431,2023-03-17,Creighton,BE,North Carolina St.,W, 72-63,2023
+432,2023-03-17,Fairleigh Dickinson,NEC,Purdue,W, 63-58,2023
+433,2023-03-17,Kennesaw St.,ASun,Xavier,L, 72-67,2023
+434,2023-03-17,Kentucky,SEC,Providence,W, 61-53,2023
+435,2023-03-17,Miami FL,ACC,Drake,W, 63-56,2023
+436,2023-03-18,Houston,Amer,Auburn,W, 81-64,2023
+437,2023-03-18,UCLA,P12,Northwestern,W, 68-63,2023
+438,2023-03-18,Princeton,Ivy,Missouri,W, 78-63,2023
+439,2023-03-18,Kansas,B12,Arkansas,L, 72-71,2023
+440,2023-03-18,Tennessee,SEC,Duke,W, 65-52,2023
+441,2023-03-18,Penn St.,B10,Texas,L, 71-66,2023
+442,2023-03-18,San Diego St.,MWC,Furman,W, 75-52,2023
+443,2023-03-18,Alabama,SEC,Maryland,W, 73-51,2023
+444,2023-03-19,Miami FL,ACC,Indiana,W, 85-69,2023
+445,2023-03-19,Creighton,BE,Baylor,W, 85-76,2023
+446,2023-03-19,Connecticut,BE,Saint Mary's,W, 70-55,2023
+447,2023-03-19,Gonzaga,WCC,TCU,W, 84-81,2023
+448,2023-03-19,Kentucky,SEC,Kansas St.,L, 75-69,2023
+449,2023-03-19,Xavier,BE,Pittsburgh,W, 84-73,2023
+450,2023-03-19,Michigan St.,B10,Marquette,W, 69-60,2023
+451,2023-03-19,Fairleigh Dickinson,NEC,Florida Atlantic,L, 78-70,2023
+452,2023-03-23,Kansas St.,B12,Michigan St.,W, 98-93,2023
+453,2023-03-23,Connecticut,BE,Arkansas,W, 88-65,2023
+454,2023-03-23,Gonzaga,WCC,UCLA,W, 79-76,2023
+455,2023-03-23,Florida Atlantic,CUSA,Tennessee,W, 62-55,2023
+456,2023-03-24,Miami FL,ACC,Houston,W, 89-75,2023
+457,2023-03-24,Creighton,BE,Princeton,W, 86-75,2023
+458,2023-03-24,Texas,B12,Xavier,W, 83-71,2023
+459,2023-03-24,San Diego St.,MWC,Alabama,W, 71-64,2023
+460,2023-03-25,Florida Atlantic,CUSA,Kansas St.,W, 79-76,2023
+461,2023-03-25,Connecticut,BE,Gonzaga,W, 82-54,2023
+462,2023-03-26,Miami FL,ACC,Texas,W, 88-81,2023
+463,2023-03-26,Creighton,BE,San Diego St.,L, 57-56,2023
+464,2023-04-01,Florida Atlantic,CUSA,San Diego St.,L, 72-71,2023
+465,2023-04-01,Connecticut,BE,Miami FL,W, 72-59,2023
+466,2023-04-03,Connecticut,BE,San Diego St.,W, 76-59,2023
