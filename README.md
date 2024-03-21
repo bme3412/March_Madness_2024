@@ -5,8 +5,8 @@ In this project I use RandomForestClassifiers and RandomForestRegressors to pred
 data sourced from: https://www.kaggle.com/datasets/nishaanamin/march-madness-data
 
 First Round Results:
-Game 1: Connecticut vs Stetson | Winner: Connecticut (Conviction: 99.67%)
-Game 2: Florida Atlantic vs Northwestern | Winner: Florida Atlantic (Conviction: 21.08%)
++ Game 1: Connecticut vs Stetson | Winner: Connecticut (Conviction: 99.67%)
++ Game 2: Florida Atlantic vs Northwestern | Winner: Florida Atlantic (Conviction: 21.08%)
 Game 3: San Diego St. vs UAB | Winner: San Diego St. (Conviction: 80.41%)
 Game 4: Auburn vs Yale | Winner: Auburn (Conviction: 84.80%)
 Game 5: BYU vs Duquesne | Winner: Duquesne (Conviction: 32.71%)
